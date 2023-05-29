@@ -1,0 +1,30 @@
+body{
+    background-image:url(../images/fondo.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.background-black{
+    background-color: black;
+    height: 50vh;
+    font-weight: bold;
+}
+
+
+.padlock{
+    width: 3rem;
+    height: 3rem;
+}
+
+.social{
+    width: 2rem;
+    height: auto;
+}
+
+.button-green-blue{
+    background-color:#4addc1;
+    border: 1px solid #4addc1;
+}
