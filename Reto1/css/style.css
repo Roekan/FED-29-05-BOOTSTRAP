@@ -1,20 +1,5 @@
-.fondoazul{
-    background: #eff8ff;
-    padding: 1.2vw;
-    width: 50%;
-}
-
-h1,h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.background-black{
+    background-color: black;
+    height: 50vh;
     font-weight: bold;
-    font-style: italic;
-}
-
-p,ol{
-    font-family: sans-serif;
-    line-height: 1.4vw;
-}
-li{
-    margin-top:2%;
-    margin-bottom:2%;
 }
