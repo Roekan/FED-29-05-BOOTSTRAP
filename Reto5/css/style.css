@@ -1,40 +1,38 @@
 .fondo-pulsera{
     background-image:url(../images/pulsera.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 
 .fondo-anillo{
     background-image:url(../images/anillo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 
 .fondo-pendientes{
     background-image:url(../images/pendientes.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 
 .fondo-collar{
     background-image:url(../images/collar.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 
 .fondo-ring{
     background-image:url(../images/ring.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 
-.alto-imagen{
-   /* height: 40rem;*/
+
+.fondo-pulsera, .fondo-anillo, .fondo-pendientes, .fondo-collar, .fondo-ring{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    transition: all 1s ease;
+}
+
+.fondo-pulsera:hover, .fondo-ring:hover{
+    background-size: 110%;
+    transition: all 1s ease;
+}
+
+.spacer-padding-top{
+    padding-top: 12rem;
 }
 
 .btn-collection{
@@ -54,4 +52,17 @@
 
 .bg-color-beige{
     background-color: #fcf4ed;
+}
+.color-gold{
+    color:#a58a63;
+}
+
+.title-black{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.button-img:hover{
+    background-color: #000;
+    color:#a58a63;
 }
