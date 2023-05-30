@@ -1,0 +1,57 @@
+.fondo-pulsera{
+    background-image:url(../images/pulsera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.fondo-anillo{
+    background-image:url(../images/anillo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.fondo-pendientes{
+    background-image:url(../images/pendientes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.fondo-collar{
+    background-image:url(../images/collar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.fondo-ring{
+    background-image:url(../images/ring.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.alto-imagen{
+   /* height: 40rem;*/
+}
+
+.btn-collection{
+    background-color: #000;
+    color:#fff;
+}
+
+.btn-collection svg{
+    fill:#fff;
+    width:1.6rem;
+    height:auto;
+}
+
+.bg-color-blue{
+    background-color: #dae8ee;
+}
+
+.bg-color-beige{
+    background-color: #fcf4ed;
+}
